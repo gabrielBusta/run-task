@@ -1,7 +1,5 @@
 # run-task
 
-**Build and Test**:
-
 Build a binary:
 ```bash
 go build -o run-task ./cmd/run-task
